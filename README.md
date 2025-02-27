@@ -21,7 +21,13 @@ Vizualyze is a modern dashboard application that enables businesses to visualize
 - Node.js
 - Express.js
 - MongoDB
+- Mongoose
+- CORS
 - TypeScript
+
+### DevOps
+-Docker
+-Docker Compose
 
 ## 🔧 Installation
 
@@ -65,3 +71,13 @@ npm run dev
 1. View KPIs, performance metrics, and budget graphs on the dashboard main page
 2. Quick access to different sections via sidebar
 3. Data updates in real-time
+
+## 📸 Screenshots
+### Home Page
+![Image](https://github.com/user-attachments/assets/4f060910-b0b7-440e-8d1c-4018c28f743d)
+
+### Dashboard Sidebar
+![Image](https://github.com/user-attachments/assets/c53ece0f-4d7d-493b-a256-aa08f109726c)
+
+
+
