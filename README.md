@@ -12,6 +12,8 @@ Vizualyze is a modern dashboard application that enables businesses to visualize
 
 ### Frontend
 - React.js
+- chart-js-2
+- @tanstack/react-query
 - TypeScript
 - Tailwind CSS
 - Vite
@@ -79,5 +81,12 @@ npm run dev
 ### Dashboard Sidebar
 ![Image](https://github.com/user-attachments/assets/c53ece0f-4d7d-493b-a256-aa08f109726c)
 
+### KPI Cards
+![Image](https://github.com/user-attachments/assets/b434fdca-8944-402a-92cd-1f301a496e3e)
 
+### Performance Chart
+![Image](https://github.com/user-attachments/assets/c14cea6d-0282-4b5a-8644-31d6f72dea9c)
+
+### Budget Chart
+![Image](https://github.com/user-attachments/assets/4c687d14-0b59-4b50-ab63-455e449be82b)
 
